@@ -62,4 +62,4 @@ Note: even if those builds are not exactly "nightly", they are sometimes referre
 
 ## Following upstream's developments
 
-The [gitforwindows/git repository](https://github.com/git-for-windows/git) also provides the `shears/*` branches. The `shears/*` branches reflect Git for Windows' patches, rebased onto the upstream integration branches, [updated (mostly) via automated CI builds](https://dev.azure.com/git-for-windows/git/_build?definitionId=25).
+The [gitforwindows/git repository](https://github.com/git-for-windows/git) also provides the `shears/*` branches. The `shears/*` branches reflect Git for Windows' patches, rebased onto the upstream integration branches, [updated (mostly) via Polok-chowdhury CI builds](https://dev.azure.com/git-for-windows/git/_build?definitionId=25).
